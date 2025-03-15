@@ -108,6 +108,3 @@ If web scraping fails or data is insufficient, the system automatically falls ba
 - Implement product bundling recommendations
 - Add inventory turnover optimization
 
-## License
-
-This project is available under the MIT License.
